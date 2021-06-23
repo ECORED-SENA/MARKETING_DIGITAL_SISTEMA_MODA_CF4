@@ -84,7 +84,7 @@ export default {
         nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
-        titulo: 'Tema 6',
+        titulo: 'Proceso de servicio al cliente en redes sociales',
         desarrolloContenidos: true,
         subMenu: [{}],
       },
@@ -92,7 +92,8 @@ export default {
         nombreRuta: 'tema7',
         icono: 'far fa-file-alt',
         numero: '7',
-        titulo: 'Tema 7',
+        titulo:
+          'Normativa legal vigente y ética en el manejo de datos (protección de datos)',
         desarrolloContenidos: true,
         subMenu: [{}],
       },
