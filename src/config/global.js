@@ -68,7 +68,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Tema 4',
+        titulo: 'Nuevas tendencias en servicio al cliente en redes sociales',
         desarrolloContenidos: true,
         subMenu: [{}],
       },
