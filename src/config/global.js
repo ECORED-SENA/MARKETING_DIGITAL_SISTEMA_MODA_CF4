@@ -76,7 +76,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Tema 5',
+        titulo: 'Proceso de servicio al cliente en redes sociales',
         desarrolloContenidos: true,
         subMenu: [{}],
       },
