@@ -100,12 +100,6 @@ export default {
     ],
     subMenu: [
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -134,135 +128,130 @@ export default {
   },
   referencias: [
     {
+      referencia: 'Albán, J. (2002). Etiqueta y protocolo. 1ª edición.',
+    },
+    {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Constitución Política de Colombia [Const.]. Art. 15. 1991 (Colombia). ',
+    },
+    {
+      referencia:
+        'Decreto 1377 de 2013. [Presidencia de la República de Colombia]. Por el cual se reglamenta parcialmente la Ley 1581 de 2012. Junio 27 de 2013.',
+    },
+    {
+      referencia:
+        'Deming, W. E. (2009). Calidad, productividad y competitividad: la salida de la crisis. Ediciones Diaz de Santos. ',
+    },
+    {
+      referencia:
+        'Ley 1266 de 2008. Por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones. Diciembre 31 de 2008.',
+    },
+    {
+      referencia:
+        'Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012.',
+    },
+    {
+      referencia:
+        'Maciá,	F.,	y	Gosende,	J.	(2011).	Marketing	con	redes	sociales.	Anaya	Multimedia.',
+    },
+    {
+      referencia:
+        'Macone, C. F. (2017). Programa para el mejoramiento de la calidad de atención al usuario en el Laboratorio de la Clínica DR. A. L. Briceño Rossi. [Trabajo especial de grado, Universidad Católica Andrés Bello]. Repositorio Institucional UCAB. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://biblioteca2.ucab.edu.ve/anexos/biblioteca/marc/texto/AAU7630.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Montoya, C. y Boyero, M. (2013). El CRM como herramienta para el servicio al cliente en la organización. Revista Científica Visión de futuro, 17(1), p. 130-151. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://revistacientifica.fce.unam.edu.ar/index.php?option=com_content&view=article&id=323:el-crm-como-herramienta-para-el-servicio-al-cliente-en-la-organizacion&catid=131:articulos-en-espanol',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Mora, C., C. E. (2011). La calidad del servicio y la satisfacción del consumidor. Revista Brasileira de Marketing, 10(2), p. 146-162. ',
+      link: 'https://www.redalyc.org/pdf/4717/471747525008.pdf',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Pérez, V. (2016). Calidad total en la atención al cliente. Pautas para garantizar la excelencia en el servicio. Editorial Ideas propias. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.academia.edu/8910048/CALIDAD_TOTAL_EN_LA_ATENCI%C3%93N_AL_CLIENTE_Pautas_para_Garantizar_la_Excelencia_en_el_Servicio',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Pincay, Y., Parra, F., C. (2020). Gestión de la calidad en el servicio al cliente de las PYMES comercializadoras. Una mirada en Ecuador. Revista Científica Dominio de las Ciencias, 6 (3), p. 1118-1142. ',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=7539747',
+    },
+    {
+      referencia: 'Thompson, I. (2009). Definición de cliente. ',
+      link: 'https://www.promonegocios.net/clientes/cliente-definicion.html',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Vera, J. y Trujillo, A. (2013). Factores relevantes de calidad en el servicio en el sector de concreto en el mercado de clientes pequeños y de hogar. Panorama Socioeconómico, 31(46), p. 14-28. ',
+      link: 'https://www.redalyc.org/articulo.oa?id=39929212003',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Cadena de satisfacción',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Medio que permite medir las capacidades de sus colaboradores y el sentido de pertenencia con la organización, para así poder brindar a los clientes lealtad a la marca.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Cliente',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Persona que adquiere un producto o servicio con la finalidad de suplir una necesidad.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Competitividad',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Capacidad de un negocio o empresa para crear estrategias que lo ayuden a adquirir una posición vanguardista en el mercado.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Cultura organizacional',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Conjunto de normas que se tienen en una organización en todas sus áreas, basadas en el respeto, los valores, la ética, la integridad, las actitudes y los hábitos, todo esto genera una persona íntegra y un buen ambiente laboral.',
     },
     {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+      termino: 'Corporativo',
+      significado: 'Perteneciente o relativo a una corporación.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Estándares',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Permiten controlar las operaciones o procesos que se realizan en la organización, teniendo el conocimiento de cada una de las personas que trabajan en ella y de sus actividades.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Garantía de la calidad',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Comprende todas aquellas actividades de una empresa u organismo para conseguir y demostrar la calidad de esta.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Quejas',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es la forma en que tiene el cliente de mostrar su inconformidad con un servicio o producto que esté adquiriendo.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Calidad y cultura del servicio - Mora, C., C. E. (2011). La calidad del servicio y la satisfacción del consumidor. Revista Brasileira de Marketing, 10(2), p. 146-162.',
+      tipo: 'Artículo',
+      link: 'https://www.redalyc.org/pdf/4717/471747525008.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Calidad y cultura del servicio - Pincay, Y., Parra, F., C. (2020). Gestión de la calidad en el servicio al cliente de las PYMES comercializadoras. Una mirada en Ecuador. Revista Científica Dominio de las Ciencias, 6 (3), p. 1118-1142. https://dialnet.unirioja.es/servlet/articulo?codigo=7539747',
+      tipo: 'Artículo',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=7539747',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Normativa legal vigente y ética en el manejo de datos (protección de datos) - Superintendencia de Industria y Comercio. (s.f.). Régimen general protección de datos personales.',
+      tipo: 'Documento',
+      link:
+        'https://www.sic.gov.co/sites/default/files/files/Nuestra_Entidad/Publicaciones/Compendio%202%20FINAL%20V%2012%20Dic20.pdf',
     },
   ],
   creditos: {
