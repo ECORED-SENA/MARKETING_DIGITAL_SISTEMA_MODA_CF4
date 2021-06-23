@@ -51,7 +51,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Calidad y cultura de servicio',
         desarrolloContenidos: true,
         subMenu: [{}],
       },
