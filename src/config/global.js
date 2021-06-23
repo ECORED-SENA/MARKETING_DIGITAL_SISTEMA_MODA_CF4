@@ -59,7 +59,8 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo:
+          'Tipos de canales para el servicio al cliente en redes sociales',
         desarrolloContenidos: true,
         subMenu: [{}],
       },
