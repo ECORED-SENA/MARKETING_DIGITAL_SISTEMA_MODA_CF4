@@ -66,6 +66,7 @@
         p.mb-5 La calidad del servicio es una disciplina que navega en la necesidad de supervivencia frente a las crisis; por eso se define como un sistema inteligente para evolucionar conscientemente desde un aprendizaje organizacional, con el fin de conseguir sus fines y objetivos desde la calidad del servicio y la mejora continua.
       .col-lg-1
 
+
     h3.titulo-tercero Dimensiones de la calidad del servicio 
     .row.mb-4
       .col-lg-8
@@ -78,6 +79,7 @@
     .row.mb-4
       .col-lg-1
       .col-lg-10
+        p.BorTit Modelos sobre calidad de servicio
         .tabla-a.color-acento-contenido
           table
             caption Nota. Esta tabla recoge algunos modelos y dimensiones del servicio al cliente destacados en una época. 
