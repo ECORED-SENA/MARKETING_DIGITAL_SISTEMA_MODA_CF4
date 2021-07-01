@@ -62,7 +62,7 @@
     #t_1_2.titulo-segundo
       h2 1.2   Tipos de cliente
 
-    p.mb-4 Para tener una estrategia de marketing ajustada y equilibrada hacia el cliente y hacia la empresa es necesario entender que existen muchos tipos de clientes, no todos los clientes o usuarios son iguales, ni tienen la misma naturaleza. Thompson (2006) habla sobre los distintos tipos de clientes del mercado actual y los clasifica según frecuencia, vigencia de volumen de compra, influencia y nivel de satisfacción, así:
+    p.mb-4 Para tener una estrategia de marketing ajustada y equilibrada hacia el cliente y hacia la empresa es necesario entender que existen muchos tipos de clientes, no todos los clientes o usuarios son iguales, ni tienen la misma naturaleza. Thompson (2006) habla sobre los distintos tipos de clientes del mercado actual y los clasifica según frecuencia, vigencia de volumen de compra, influencia y nivel de satisfacción, así:    
 
     AcordionA.mb-4(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Clasificación según su vigencia ") 
@@ -71,7 +71,7 @@
           figure
             img(src='@/assets/curso/tema1/img05.svg', alt='')
         .col-lg-7
-          p.mb-4 Esta clasificación da información para mejorar la estrategia de satisfacción y complacencia de todos los clientes.
+          p.mb-4 La clasificación ayuda a identificar a los clientes que a la fecha están comprando y además, a hacer retención de estos, Finalmente, ante los clientes que no compran se debe elaborar acciones para intentar atraerlos.
           p.mb-4 <b>Clientes activos:</b> son aquellos que están comprando o que hace poco compraron.  
           p <b>Clientes inactivos:</b> no realizan compras desde hace un tiempo.         
         .col-lg-1
@@ -81,6 +81,7 @@
           figure
             img(src='@/assets/curso/tema1/img06.svg', alt='')
         .col-lg-7
+          p.mb-4 Esta clasificación entrega insumos para generar múltiples estrategias para potenciar la frecuencia de los clientes, convirtiendo a los de compra habitual y compra ocasional en clientes frecuentes.
           p.mb-4 <b>Clientes de compra frecuente:</b> son aquellos que presentan un intervalo de compra corto y permanente, mostrando rasgos de satisfacción con la empresa, sus productos y servicios.
           p.mb-4 <b>Clientes de compra habitual:</b> son aquellos que realizan compras de vez en cuando, es decir, con cierta regularidad, igualmente se evidencia satisfacción con la empresa, el producto y el servicio.
           p <b>Clientes de compra ocasional:</b> son aquellos que realizan compras por única vez. 
@@ -91,9 +92,10 @@
           figure
             img(src='@/assets/curso/tema1/img07.svg', alt='')
         .col-lg-7
-          p.mb-4 Clientes con alto volumen de compras, son por lo general pocos clientes que generan mayor cantidad de compras que el grueso de  los clientes.   
-          p.mb-4 Clientes con promedio de  volumen de compras, pero en un nivel medio.
-          p Clientes con bajo volumen de compras, que ocasionalmente compran por debajo del promedio.
+          p.mb-4 Esta clasificación da información importante para generar estrategias para captar clientes, potencializando su promedio de volumen de compra. 
+          p.mb-4 <b>Clientes con alto volumen de compras:</b> son por lo general pocos clientes que generan mayor cantidad de compras que el grueso de  los clientes.   
+          p.mb-4 <b>Clientes con promedio de  volumen de compras:</b> pero en un nivel medio.
+          p <b>Clientes con bajo volumen de compras:</b> que ocasionalmente compran por debajo del promedio.
         .col-lg-1
       .row(titulo="Clasificación según el nivel de satisfacción") 
         .col-lg-1
@@ -101,6 +103,7 @@
           figure
             img(src='@/assets/curso/tema1/img08.svg', alt='')
         .col-lg-7
+          p.mb-4 Esta clasificación da información para mejorar la estrategia de satisfacción y complacencia de todos los clientes.
           p.mb-4 <b>Clientes complacidos:</b> clientes que percibieron que el producto o servicio excedió sus expectativas, generando afinidad y lealtad con la marca. 
           p.mb-4 <b>Clientes satisfechos:</b> clientes que apreciaron el desempeño de la empresa, el producto y el servicio como compatible con sus expectativas. 
           p <b>Clientes insatisfechos:</b> clientes que apreciaron el desempeño de la empresa, el producto y/o el servicio por debajo de sus expectativas.
@@ -111,7 +114,8 @@
           figure
             img(src='@/assets/curso/tema1/img09.svg', alt='')
         .col-lg-7
-          p.mb-4 <b>Clientes altamente influyentes:</b> generalmente con clientes con reconocimiento social y su influencia se da desde una percepción positiva o negativa. 
+          p.mb-4 Un cliente con influencia ayuda a generar mayor afluencia de clientes nuevos, por eso esta clasificación es vital para establecer estrategias de fidelización de clientes y ampliación de nuevos clientes.
+          p.mb-4 <b>Clientes altamente influyentes:</b> generalmente son clientes con reconocimiento social y su influencia se da desde una percepción positiva o negativa. 
           p.mb-4 <b>Clientes de regular influencia:</b> clientes con influencia en grupos más reducidos.
           p <b>Clientes de influencia a nivel familiar:</b> clientes que lograr influenciar escenarios más pequeños como su familia o su grupo de amigos.
    
@@ -145,7 +149,7 @@
       PasosB.color-acento-contenido
         .row(titulo="Acuerdo de Niveles de Servicio")
           .col-lg-6
-            h3 Acuerdo de Niveles de Servicio
+            h3 Acuerdo de Niveles de Servicio (ANS)
             p.mb-4 Constituye en una herramienta de negociación para fijar la calidad del servicio comprometido, se da entre el cliente y el proveedor. Estos ANS ayudan a gestionar aspectos como tiempo de respuesta, personal asignado al servicio, garantía, servicio posventa y otras características del servicio, los cuales deben estar descritos como acciones comprometidas entre las partes. En el documento es una promesa de servicio, y cuando se cumpla y se supere el nivel comprometido aumenta la competitividad y genera diferencia con respecto a la competencia.
             p Los acuerdos de niveles de servicios son punto de referencia para la mejora continua, ya que genera insumos por la medición de niveles de servicio que se está prestando. 
           .col-lg-6
@@ -155,7 +159,7 @@
           .col-lg-6
             h3 Evaluación del servicio
             p.mb-4 El servicio es un valor subjetivo y no tangible, depende del punto de vista del cliente, por eso puede variar significativamente; ya que se hace necesario la generación de métodos de tabulación de información que produzcan los instrumentos de evaluación del producto y el servicio. Los resultados que arrojen estos ayudará a mejorar procesos y acciones de  la organización para la fidelización de los clientes. Esta evaluación permite generar directrices de cambio en procura de lograr cumplir los ANS. Uno de los instrumentos puede ser: 
-            p <b>Libreta de calificación del cliente</b> que permite calificar el nivel del servicio que el cliente vive, estructurado en tres niveles: 1. atributos claves de la calidad del servicio, 2. la importancia relativa de los atributos, 3. puntaje  del negocio en atributos. 
+            p <b>Libreta de calificación del cliente</b> que permite calificar el nivel del servicio que el cliente vive, estructurado en tres niveles: 1. Atributos claves de la calidad del servicio, 2. La importancia relativa de los atributos, 3. Puntaje  del negocio en atributos. 
           .col-lg-6
             figure
               img(src='@/assets/curso/tema1/img13.png', alt='Texto que describa la imagen')  
@@ -193,10 +197,10 @@
           .col-lg-6
             figure
               img(src='@/assets/curso/tema1/img15.png', alt='Texto que describa la imagen') 
-        .row(titulo="Sistema de Gestión de la Relaciones con los Clientes (CRM)")
+        .row(titulo="Sistema de Gestión de las Relaciones con los Clientes (CRM)")
           .col-lg-6
-            h3 Sistema de Gestión de la Relaciones con los Clientes (CRM)
-            p.mb-4 Las empresas deben generar sistemas que le permitan permanecer conectada con sus clientes para agilizar sus procesos y mejorar la rentabilidad, esto lo posibilita el CRM o  gestión de relaciones con cliente, cuyo objetivo gira en torno a la actuación sistémica y coordinada de la empresa para garantizar que el cliente viva una experiencia que sobrepase sus expectativas. 
+            h3 Sistema de Gestión de las Relaciones con los Clientes (CRM)
+            p.mb-4 Las empresas deben generar sistemas que le permitan permanecer conectada con sus clientes para agilizar sus procesos y mejorar la rentabilidad, esto lo posibilita el CRM o gestión de relaciones con clientes, cuyo objetivo gira en torno a la actuación sistémica y coordinada de la empresa para garantizar que el cliente viva una experiencia que sobrepase sus expectativas. 
             p Este sistema entrega información de sus clientes, que ayuda a incrementar el conocimiento acerca de ellos y construir relaciones altamente rentables y duraderas.
           .col-lg-6
             figure
@@ -209,7 +213,7 @@
             ul.lista-ul
               li 
                 i.lista-ul__vineta
-                | Sentido de pertenecía
+                | Sentido de pertenencia
               li 
                 i.lista-ul__vineta
                 | Orientación al cliente

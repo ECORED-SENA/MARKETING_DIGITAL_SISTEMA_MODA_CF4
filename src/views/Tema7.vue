@@ -14,11 +14,11 @@
       .col-lg-9
         TabsA.color-acento-contenido.mb-5   
           .tarjeta.fondo-color-primario-claro2.p-4(titulo="Constitución Política de Colombia")
-            p.mb-4 Con respecto al manejo de los datos, la Constitución, en el Artículo 15 menciona que todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas. 
+            p.mb-4 Con respecto al manejo de los datos, la Constitución, en el <b>Artículo 15</b> menciona que todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas. 
             p En la recolección, tratamiento y circulación de datos se respetarán la libertad y demás garantías consagradas en la Constitución.
           .tarjeta.fondo-color-primario-claro2.p-4(titulo="Ley 1266 del 2008")
-            p En el marco de esta ley  se dictan las disposiciones generales del hábeas data, regulando el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial y de servicios. En los Artículos 2 y 4 se definen las normas especiales para la confidencialidad de los datos y los principios administrativos de estos. 
-          .tarjeta.fondo-color-primario-claro2.p-4(titulo="La Ley 15 81 de 2012 ")
+            p En el marco de esta ley  se dictan las disposiciones generales del hábeas data, regulando el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial y de servicios. En los <b>Artículos 2 y 4</b> se definen las normas especiales para la confidencialidad de los datos y los principios administrativos de estos. 
+          .tarjeta.fondo-color-primario-claro2.p-4(titulo="La Ley 1581 de 2012 ")
             p.mb-4 Esta ley  establece los lineamientos para la protección de datos y la autorización de los titulares para el tratamiento de estos y, define  que datos personales  son cualquier tipo de información asociada a una o varias personas naturales, determinables, como el nombre, la edad, el sexo, el estado civil, el domicilio, entre otros. Además, define que hay diferentes tipos de datos:
             ul.lista-ul
               li 

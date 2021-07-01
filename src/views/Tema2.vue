@@ -27,14 +27,14 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.text-regula <b>El concepto de calidad del servicio no posee una definición específica, puesto que es el consumidor quien determina qué es la calidad</b>
+            h4.text-regula <b>El concepto de calidad del servicio no posee una definición específica, puesto que es el consumidor quien determina qué es la calidad.</b>
             i.fas.fa-quote-right
             p.mb-0 - Cobra (citado por Macon, 2017, p. 70)           
       .col-lg-5
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.text-regula <b>la calidad del servicio se considera como el medio de poder lograr la satisfacción del cliente, utilizando métodos innovadores que ayuden a complementar para brindar el servicio esperado por el cliente</b>
+            h4.text-regula <b>La calidad del servicio se considera como el medio de poder lograr la satisfacción del cliente, utilizando métodos innovadores que ayuden a complementar para brindar el servicio esperado por el cliente.</b>
             i.fas.fa-quote-right
             p.mb-0 - Pérez (2016, p. 31)
       .col-lg-1
@@ -45,14 +45,14 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.text-regula <b>la calidad es una metodología sistemática, coherente y participativa, cuyo propósito es perfeccionar los procesos para mejorar las aptitudes y atributos de los productos o servicios, para maximizar la satisfacción de las necesidades y expectativas de los consumidores y usuarios</b>
+            h4.text-regula <b>La calidad es una metodología sistemática, coherente y participativa, cuyo propósito es perfeccionar los procesos para mejorar las aptitudes y atributos de los productos o servicios, para maximizar la satisfacción de las necesidades y expectativas de los consumidores y usuarios.</b>
             i.fas.fa-quote-right
             p.mb-0 - Medina (2009, p. 162)
       .col-lg-5
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.text-regula <b>Que los atributos de la calidad en el servicio también se han establecido como antecedente de la lealtad hacia la marca</b>
+            h4.text-regula <b>Los atributos de la calidad en el servicio también se han establecido como antecedente de la lealtad hacia la marca.</b>
             i.fas.fa-quote-right
             p.mb-0 - Vera y Trujillo (2016, p. 31)
       .col-lg-1
@@ -70,8 +70,8 @@
     h3.titulo-tercero Dimensiones de la calidad del servicio 
     .row.mb-4
       .col-lg-8
-        p.mb-4 Existe una multiplicidad de modelos relacionados con las dimensiones del constructo de calidad del servicio, varios autores han generado modelos para medir la calidad y cada uno define sus dimensiones o factores determinantes en la manera como el cliente percibe y valida el servicio. Para realizar una generalidad en la evolución de este concepto de dimensión se presenta en la tabla 1, algunos modelos en línea de tiempo reconocidos en el escenario del servicio al cliente.
-        p A continuación, se presenta la tabla 1 con los modelos más reconocidos sobre calidad del servicio y sus respectivas dimensiones.
+        p.mb-4 Existe una multiplicidad de modelos relacionados con las dimensiones del constructo de calidad del servicio, varios autores han generado modelos para medir la calidad y cada uno define sus dimensiones o factores determinantes en la manera como el cliente percibe y valida el servicio. Para realizar una generalidad en la evolución de este concepto de dimensión se presentan en la tabla, algunos modelos en línea de tiempo reconocidos en el escenario del servicio al cliente.
+        p A continuación, se presenta la tabla con los modelos más reconocidos sobre calidad del servicio y sus respectivas dimensiones.
       .col-lg-4
         figure
           img(src='@/assets/curso/tema2/img03.svg', alt='')

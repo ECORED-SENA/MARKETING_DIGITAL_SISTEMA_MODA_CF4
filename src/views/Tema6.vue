@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 6
-      h1 Proceso de servicio al cliente en redes sociales
+      h1 Etiqueta empresarial
 
     .cajon.color-acento-contenido.p-5.mb-4
       p.m-0 La globalización del mundo de los negocios les exige a las empresas generar una imagen positiva, basada en reglas que rigen las relaciones interpersonales y empresariales, aplicarlas genera distinción frente a clientes, colaboradores y colegas como un sello de garantía en ese escenario competido del mundo empresarial, es allí donde cobra vida el concepto de etiqueta empresarial.
@@ -38,7 +38,7 @@
         .col-lg-6
           .row
             .col-12
-              p.text-center El protocolo empresarial debe reunir como mínimo las siguientes características.
+              p.text-center El protocolo empresarial debe reunir como mínimo las siguientes características:
           .row
             .col-3
             .col-6(style="border: 1px solid #BB83FF!important;")

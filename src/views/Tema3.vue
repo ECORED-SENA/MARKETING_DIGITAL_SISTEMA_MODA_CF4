@@ -16,7 +16,7 @@
       .col-lg-1        
       .col-lg-10
         p.mb-4 Los entornos virtuales cada vez son más propicios para la creación de relaciones entre las personas y organizaciones en torno a un interés común. Intercambiar ideas, encontrar información y comprar son algunas acciones que generan un vínculo en los entornos digitales. 
-        p Las dinámica dadas en el entorno virtual  son útiles  para el servicio y atención al cliente porque ayudan a fidelizar y atraer clientes, pero ¿cuáles son los entornos para crear estos vínculos?, a continuación algunos de ellos.
+        p Las dinámicas dadas en el entorno virtual  son útiles  para el servicio y atención al cliente porque ayudan a fidelizar y atraer clientes, pero ¿cuáles son los entornos para crear estos vínculos?, a continuación algunos de ellos.
       .col-lg-1
 
     figure.mb-4

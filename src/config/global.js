@@ -84,7 +84,7 @@ export default {
         nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
-        titulo: 'Proceso de servicio al cliente en redes sociales',
+        titulo: 'Etiqueta empresarial',
         desarrolloContenidos: true,
         subMenu: [{}],
       },
@@ -230,7 +230,7 @@ export default {
     {
       termino: 'Quejas',
       significado:
-        'Es la forma en que tiene el cliente de mostrar su inconformidad con un servicio o producto que esté adquiriendo.',
+        'Es la forma que tiene el cliente de mostrar su inconformidad con un servicio o producto que esté adquiriendo.',
     },
   ],
   complementario: [
@@ -238,11 +238,11 @@ export default {
       texto:
         'Calidad y cultura del servicio - Mora, C., C. E. (2011). La calidad del servicio y la satisfacción del consumidor. Revista Brasileira de Marketing, 10(2), p. 146-162.',
       tipo: 'Artículo',
-      link: 'https://www.redalyc.org/pdf/4717/471747525008.pdf',
+      link: 'downloads/471747525008.pdf',
     },
     {
       texto:
-        'Calidad y cultura del servicio - Pincay, Y., Parra, F., C. (2020). Gestión de la calidad en el servicio al cliente de las PYMES comercializadoras. Una mirada en Ecuador. Revista Científica Dominio de las Ciencias, 6 (3), p. 1118-1142. https://dialnet.unirioja.es/servlet/articulo?codigo=7539747',
+        'Calidad y cultura del servicio - Pincay, Y., Parra, F., C. (2020). Gestión de la calidad en el servicio al cliente de las PYMES comercializadoras. Una mirada en Ecuador. Revista Científica Dominio de las Ciencias, 6 (3), p. 1118-1142.',
       tipo: 'Artículo',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=7539747',
     },
@@ -250,8 +250,7 @@ export default {
       texto:
         'Normativa legal vigente y ética en el manejo de datos (protección de datos) - Superintendencia de Industria y Comercio. (s.f.). Régimen general protección de datos personales.',
       tipo: 'Documento',
-      link:
-        'https://www.sic.gov.co/sites/default/files/files/Nuestra_Entidad/Publicaciones/Compendio%202%20FINAL%20V%2012%20Dic20.pdf',
+      link: 'downloads/Compendio%202%20FINAL%20V%2012%20Dic20.pdf',
     },
   ],
   creditos: {
