@@ -71,7 +71,7 @@
           figure
             img(src='@/assets/curso/tema1/img05.svg', alt='')
         .col-lg-7
-          p.mb-4 La clasificación ayuda a identificar a los clientes que a la fecha están comprando y además, a hacer retención de estos, Finalmente, ante los clientes que no compran se debe elaborar acciones para intentar atraerlos.
+          p.mb-4 La clasificación ayuda a identificar a los clientes que a la fecha están comprando y además, a hacer retención de estos. Finalmente, ante los clientes que no compran se deben elaborar acciones para intentar atraerlos.
           p.mb-4 <b>Clientes activos:</b> son aquellos que están comprando o que hace poco compraron.  
           p <b>Clientes inactivos:</b> no realizan compras desde hace un tiempo.         
         .col-lg-1
@@ -229,6 +229,7 @@
         .row(titulo="Técnicas de servicio al cliente")
           .col-lg-6
             p.mb-4 Este proceso de servicio al cliente se da a través de diferentes técnicas:
+            p.mb-4 <b>Chat en vivo:</b> se ha popularizado esta posibilidad de servicio digital al cliente, es implementada por agentes o incluso por un robot.
             p.mb-4 <b>Email:</b> continúa siendo el modelo de atención más implementado, posibilita efectividad, precisión y estructuración de la atención y comunicación con el cliente.
             p.mb-4 <b>Atención telefónica:</b> modelo tradicional que genera conexión personal y emocional con el cliente, identificando su necesidad y posibilitando empatizar con el cliente
             p.mb-4 <b>Formularios web:</b> toda Web o app debe tener como mínimo un formulario de contacto con el cliente. Es similar a la técnica del correo, aunque también puede derivar en que alguien contacte por teléfono directamente al cliente.

@@ -65,7 +65,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 ¿Qué falta para que suene coherente?
-        p.mb-4 Apreciado participante a continuación, encontrará unos enunciados relacionados con la experiencia de aprendizaje del presente componente de formación.
+        p.mb-4 Apreciado participante, a continuación encontrará unos enunciados relacionados con la experiencia de aprendizaje del presente componente de formación.
         p.mb-4 Con la intención de definir conceptos desarrollados seleccione una respuesta con respecto a las afirmaciones dadas. 
         p.mb-4 ¡Adelante! 
         .tarjeta.tarjeta--azul.p-3
