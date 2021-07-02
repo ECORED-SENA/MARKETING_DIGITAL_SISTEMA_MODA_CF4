@@ -225,7 +225,17 @@
                 | Trabajo en equipo
           .col-lg-6
             figure
-              img(src='@/assets/curso/tema1/img17.png', alt='Texto que describa la imagen')         
+              img(src='@/assets/curso/tema1/img17.png', alt='Texto que describa la imagen')   
+        .row(titulo="Técnicas de servicio al cliente")
+          .col-lg-6
+            p.mb-4 Este proceso de servicio al cliente se da a través de diferentes técnicas:
+            p.mb-4 <b>Email:</b> continúa siendo el modelo de atención más implementado, posibilita efectividad, precisión y estructuración de la atención y comunicación con el cliente.
+            p.mb-4 <b>Atención telefónica:</b> modelo tradicional que genera conexión personal y emocional con el cliente, identificando su necesidad y posibilitando empatizar con el cliente
+            p.mb-4 <b>Formularios web:</b> toda Web o app debe tener como mínimo un formulario de contacto con el cliente. Es similar a la técnica del correo, aunque también puede derivar en que alguien contacte por teléfono directamente al cliente.
+            p.mb-4 <b>Redes sociales:</b> generan respuestas rápidas con el cliente.
+          .col-lg-6
+            figure
+              img(src='@/assets/curso/tema1/img18.png', alt='Texto que describa la imagen')         
         
                    
 

@@ -100,6 +100,12 @@ export default {
     ],
     subMenu: [
       {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
+      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -169,7 +175,6 @@ export default {
     {
       referencia:
         'Mora, C., C. E. (2011). La calidad del servicio y la satisfacción del consumidor. Revista Brasileira de Marketing, 10(2), p. 146-162. ',
-      link: 'https://www.redalyc.org/pdf/4717/471747525008.pdf',
     },
     {
       referencia:
