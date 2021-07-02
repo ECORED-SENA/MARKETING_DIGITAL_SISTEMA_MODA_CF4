@@ -26,10 +26,12 @@
         figure
           img(src='@/assets/curso/tema6/img02.svg', alt='')
         div.contenedor
-          a(@click="mostrarDiv(1)")
+          a.indicador__containe(@click="mostrarDiv(1); mostrarIndicador2 = true;" @mouseover="mostrarIndicador1 = false; ")
             div.boton1
-          a(@click="mostrarDiv(2)")
-            div.boton2          
+            .indicador--click(style="left:15%" v-if="mostrarIndicador1" )         
+          a.indicador__containe(@click="mostrarDiv(2); mostrarIndicador1 = true;" @mouseover="mostrarIndicador2 = false; ")        
+            div.boton2
+            .indicador--click(style="left:80%" v-if="mostrarIndicador2" )           
       .col-lg-3
 
     .div(id="myDiv1" ref="myDiv1" style="display:inline")
@@ -107,6 +109,8 @@
 export default {
   name: 'Tema6',
   data: () => ({
+    mostrarIndicador1: false,
+    mostrarIndicador2: true,
     display1: true,
     display2: false,
     // variables de vue

@@ -38,7 +38,7 @@
     #t_1_1.titulo-segundo
       h2 1.1   Definición de cliente
 
-    .cajon.color-acento-contenido.p-5.mb-4
+    .cajon.color-acento-contenido.p-5.mb-4      
       p.m-0 El cliente es uno de los activos más valiosos de la organización o empresa y todas las políticas, productos y servicios están dirigidos a la satisfacción de sus expectativas. Existen varias definiciones de cliente, entre ellas se pueden citar las siguientes.
     
     .row.mb-4
