@@ -322,6 +322,18 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
+        nombre: [
+          'Carlos Eduardo Garavito Parada',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'Víctor Raúl Cárdenas Cáceres',
+          'Wilson Andrés Arenales Cáceres',
+          'Zuleidy Maria Ruiz Torres',
+        ],
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
         nombre: 'Edgar Mauricio Cortes García',
         cargo: 'Desarrollo front-end',
         centro:
@@ -333,12 +345,6 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      // {
-      //   nombre: ['Nombre 1', 'Nombre 2'],
-      //   cargo: 'Diseño web',
-      //   centro:
-      //     'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      // },
     ],
     gestoresRepositorio: [
       {
