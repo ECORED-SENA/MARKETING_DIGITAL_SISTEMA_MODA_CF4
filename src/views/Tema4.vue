@@ -14,8 +14,8 @@
       p.text-center.m-0 Este nuevo perfil de cliente crea retos para desarrollar relaciones estrechas entre usuarios, marcas y empresas. Observe el siguiente recurso de aprendizaje para que pueda aplicar algunas tendencias en su contexto laboral.
 
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
+      .video      
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/K0OLNjbliCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
 
 
 </template>
